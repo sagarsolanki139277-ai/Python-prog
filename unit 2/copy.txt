@@ -1,3 +1,0 @@
-This is the original file.
-It contains some sample text.
-We will copy this file using Python.
