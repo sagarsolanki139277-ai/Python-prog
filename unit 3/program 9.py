@@ -10,5 +10,5 @@ class Student(Printable):
     def print_data(self):
         print("Student Name:", self.name)
 
-s = Student("Rahul")
+s = Student("shiv")
 s.print_data()
