@@ -17,5 +17,5 @@ class Course(Student):
     def display(self):
         print(f"{self.roll} | {self.name} | {self.gender} | {self.age} | {self.course_name} | {self.duration} | ₹{self.fee}")
 
-c = Course("101", "Anita", "Female", 21, "MCA", "2 Years", 120000)
+c = Course("101", "dhruvi", "Female", 21, "MCA", "2 Years", 120000)
 c.display()
